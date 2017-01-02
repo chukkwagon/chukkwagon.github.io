@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
+title: Blog
+permalink: /blog/
+category: "blog"
 tagline: "it's all about perception."
 ---
